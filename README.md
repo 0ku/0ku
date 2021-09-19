@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://ibb.co/6vMJtS5)
+![alt text](https://github.com/0ku/0ku/blob/main/image.jpg?raw=true)
 <!--
 **0ku/0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
