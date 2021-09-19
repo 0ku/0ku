@@ -1,8 +1,8 @@
 
-![alt text](https://github.com/0ku/0ku/blob/main/0kuBanner1.png)
+![](https://github.com/0ku/0ku/blob/main/0kuBanner1.png)
 ### Welcome!
 I'm currently a student at the University of Waterloo studying Computer Engineering 1A.  
-- 🔭 I’m currently working on Zipf's Dictionary  
+- 🔭 I’m currently working on [Zipf's Dictionary](https://github.com/0ku/Zipfs-Dictionary)
 - 😄 Pronouns: he/him/they  
 <!--
 **0ku/0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
