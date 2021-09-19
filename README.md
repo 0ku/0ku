@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome!
+I'm currently a student at the University of Waterloo studying Computer Engineering 1A!
 ![alt text](https://github.com/0ku/0ku/blob/main/0kuBanner1.png)
 <!--
 **0ku/0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
