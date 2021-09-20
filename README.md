@@ -1,5 +1,5 @@
 
-![](0kuBannerTEST2CROPPED.png)
+![](0kuBannerWHITETEXT_cropped.png)
 ### Welcome!
 I'm currently a student at the University of Waterloo studying Computer Engineering 1A.  
 - 🔭 I’m currently working on [Zipf's Dictionary](https://github.com/0ku/Zipfs-Dictionary)
