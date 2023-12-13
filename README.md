@@ -2,7 +2,7 @@
 ![](0kuBanner_Animated_3.gif)
 ### Welcome!
 I'm currently a student at the University of Waterloo studying Computer Engineering 2B.  
-- 🔭 I’m currently working on [Geese Migration](https://github.com/Abdullah9340/Geese-Migration)
+<!-- - 🔭 I’m currently working on [Geese Migration](https://github.com/Abdullah9340/Geese-Migration) -->
 <!--
 **0ku/0ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
